@@ -19,4 +19,5 @@ python-docx==1.2.0
 matplotlib==3.11.2
 
 # 数值计算（主方向解算等）
-numpy==2.5.3
+numpy>=1.26,<2.5
+
